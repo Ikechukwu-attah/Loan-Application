@@ -1,0 +1,1 @@
+<h2>Use this code {{ $code }} to verify your account</h2>
